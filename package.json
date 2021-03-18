@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "asterisk-ami-client": "^1.1.5"
+    "asterisk-ami-client": "^1.1.5",
+    "ws": "^7.4.2"
   }
 }
